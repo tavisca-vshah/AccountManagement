@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcccountManagement", "AcccountManagement\AcccountManagement.csproj", "{4B8B8215-5C33-451C-A584-AEBEE61745FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagementFixture", "AccountManagementFixture\AccountManagementFixture.csproj", "{A1138E49-DA42-40E5-B344-699F9500CD51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B8B8215-5C33-451C-A584-AEBEE61745FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8B8215-5C33-451C-A584-AEBEE61745FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8B8215-5C33-451C-A584-AEBEE61745FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8B8215-5C33-451C-A584-AEBEE61745FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1138E49-DA42-40E5-B344-699F9500CD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1138E49-DA42-40E5-B344-699F9500CD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1138E49-DA42-40E5-B344-699F9500CD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1138E49-DA42-40E5-B344-699F9500CD51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B75EA01-B68C-44B8-B81F-A0C45E30DDF4}
+	EndGlobalSection
+EndGlobal
